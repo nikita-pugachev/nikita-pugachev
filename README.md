@@ -1,8 +1,26 @@
-<h1 align="center">Hi there, I'm Nikita
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend-developer from Russia <img src="https://github.com/ramach05/ramach05/blob/main/images/russian-flag.gif?raw=true"/ height="32"></h3>
-<h3>My work stack: <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png"/ height="32"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_css_icon_130661.png"/ height="32"> <img src="https://images.icon-icons.com/2108/PNG/512/javascript_icon_130900.png" height="32"> <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" height="32"/><img src="https://cdn.brandfetch.io/idqeSF6CKl/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="32"></h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-pugachev&layout=compact"/></p>
+# Hi there, I'm Nikita 👋
+
+## I am Frontend-developer from Russia :ru:
+
+---
+
+## My work stack
+<p align="left" margin-bottom="0">
+  <img src="https://img.shields.io/badge/HTML5-DA0448?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-FF8D1A?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-05BD09?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-00A4EF?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-1B4ECD?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-8910CD?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-4C7094?style=for-the-badge&logo=redux&logoColor=20232A"/>
+  <img src="https://img.shields.io/badge/Next.js-E8EDF3?style=for-the-badge&logo=next.js&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
 <h3>About me</h3>
 <p>Меня зовут Никита, я начинающий Frontend-разработчик. Я очень хочу найти работу и отдавать всего себя любимому делу. Я стремлюсь к тому, чтобы в совершенстве овладеть навыками, необходимыми для того, чтобы стать профессионалом в своём деле. Для того чтобы достичь своих целей и получать удовольствие от того, чем я занимаюсь, я активно слежу за миром IT, за его развитием, за новыми технологиями, которые буду использовать в своих pet-проектах и будущей работе. Мне нравится учиться и постоянно изучать что-то новое, ведь так я не только изучаю технологии, которые необходимы в моей работе, но и становлюсь лучше как личность, ведь новые знания расширяют мой кругозор, делают меня мудрым и опытным разработчиком. Благодаря знаниям жизнь становится проще.
 
