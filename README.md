@@ -1,6 +1,6 @@
 # Hi there, I'm Nikita 👋
 
-## I am Frontend-developer from Russia :ru:
+## I am Frontend-developer from Russia
 
 ## My work stack
 <p align="left" margin-bottom="0">
