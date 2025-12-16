@@ -3,8 +3,8 @@
 ## I am Frontend-developer from Russia
 
 - 🔎 Активно ищу работу
-- ✒️ Изучаю TypeScript и улучшаю навыки UI/UX, доступность и анимации
-- 💻 Работаю над [weblarek🏪](https://github.com/nikita-pugachev/weblarek.git)
+- ✒️ Изучаю React и улучшаю навыки UI/UX, доступность и анимации
+- 💻 Работаю над [stellar-burgers🏪](https://github.com/nikita-pugachev/stellar-burgers)
 - 🎓 Учусь в Московском Политехническом Университете
 
 ---
