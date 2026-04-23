@@ -4,7 +4,7 @@
 
 - 🔎 Активно ищу работу
 - ✒️ Изучаю Next, улучшаю навыки UI/UX, доступность и анимации, углубляю свои знания об архитектуре.
-- 💻 Работаю над [recipes:sushi:](https://github.com/nikita-pugachev/Recipes.git)
+- 💻 Работаю над [recipes🍣](https://github.com/nikita-pugachev/Recipes.git)
 - 🎓 Учусь в Московском Политехническом Университете
 
 ---
