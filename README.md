@@ -3,8 +3,8 @@
 ## I am Frontend-developer from Russia
 
 - 🔎 Активно ищу работу
-- ✒️ Изучаю React и улучшаю навыки UI/UX, доступность и анимации
-- 💻 Работаю над [stellar-burgers🏪](https://github.com/nikita-pugachev/stellar-burgers)
+- ✒️ Изучаю Next, улучшаю навыки UI/UX, доступность и анимации, углубляю свои знания об архитектуре.
+- 💻 Работаю над [recipes:sushi:](https://github.com/nikita-pugachev/Recipes.git)
 - 🎓 Учусь в Московском Политехническом Университете
 
 ---
