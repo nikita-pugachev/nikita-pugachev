@@ -1,6 +1,6 @@
 # Hi there, I'm Nikita 👋
 
-## I am Frontend-developer from Russia
+## About me
 
 - 🔎 Активно ищу работу
 - ✒️ Изучаю React Native, улучшаю навыки UI/UX, доступность и анимации, углубляю свои знания об архитектуре.
