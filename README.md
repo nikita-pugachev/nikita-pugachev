@@ -3,7 +3,7 @@
 ## About me
 
 - ✒️ Изучаю Next.js и React Native, улучшаю навыки UI/UX, доступность и анимации, углубляю свои знания об архитектуре.
-- 💻 Работаю над 'happiness-platform'
+- 💻 Работаю над [happiness-platform](https://github.com/nikita-pugachev/happiness-platform)
 - 🎓 Учусь в Московском Политехническом Университете
 
 ---
