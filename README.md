@@ -1,11 +1,12 @@
-# Hi there, I'm Nikita 👋
-## About me
+<h1> Всем привет, я Никита 👋</h1>
+
+## Обо мне
 
 - ✒️ Изучаю Next.js и React Native, улучшаю навыки UI/UX, доступность и анимации, углубляю свои знания об архитектуре.
 - 💻 Работаю над [happiness-platform](https://github.com/nikita-pugachev/happiness-platform)
 - 🎓 Учусь в Московском Политехническом Университете
 
-## My work stack
+## Мой рабочий стек
 
 <p align="left" margin-bottom="0">
   <img src="https://img.shields.io/badge/HTML5-DA0448?style=for-the-badge&logo=html5&logoColor=white"/> 
