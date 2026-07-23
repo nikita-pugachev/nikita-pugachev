@@ -1,12 +1,9 @@
 # Hi there, I'm Nikita 👋
-
 ## About me
 
 - ✒️ Изучаю Next.js и React Native, улучшаю навыки UI/UX, доступность и анимации, углубляю свои знания об архитектуре.
 - 💻 Работаю над [happiness-platform](https://github.com/nikita-pugachev/happiness-platform)
 - 🎓 Учусь в Московском Политехническом Университете
-
----
 
 ## My work stack
 
@@ -28,7 +25,6 @@
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
 </p>
 
----
 
 ## Связь со мной
 
