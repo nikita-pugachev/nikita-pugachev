@@ -30,6 +30,8 @@
 
 ## Моя статистика
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikita-pugachev&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikita-pugachev&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikita-pugachev&theme=holi)
 
 ## Связь со мной
 
