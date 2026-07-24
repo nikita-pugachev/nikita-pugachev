@@ -28,11 +28,11 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-## Моя статистика
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikita-pugachev&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikita-pugachev&theme=holi)
-
 ## Связь со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RUSSS1NG)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RUSSSSing@yandex.ru)
+
+## Моя статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikita-pugachev&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikita-pugachev&theme=holi)
