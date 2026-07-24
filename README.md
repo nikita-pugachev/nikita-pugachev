@@ -34,5 +34,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RUSSSSing@yandex.ru)
 
 ## Моя статистика
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikita-pugachev&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikita-pugachev&theme=holi)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikita-pugachev&theme=holi"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikita-pugachev&theme=holi"/>
+</div>
