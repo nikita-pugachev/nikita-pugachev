@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
+## Моя статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikita-pugachev&theme=holi)
 
 ## Связь со мной
 
