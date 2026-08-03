@@ -28,6 +28,9 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
+## P.S.
+В разработке придерживаюсь системного подхода, мне важен читаемый и архитектурно чистый код, где каждая оптимизация работает на комфорт и удобство пользователя.
+
 ## Связь со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RUSSS1NG)
