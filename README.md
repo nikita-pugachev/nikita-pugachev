@@ -35,9 +35,3 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RUSSS1NG)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RUSSSSing@yandex.ru)
-
-## Моя статистика
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikita-pugachev&theme=holi"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikita-pugachev&theme=holi"/>
-</div>
