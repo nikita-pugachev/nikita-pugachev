@@ -61,3 +61,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikita-pugachev&theme=solarized">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikita-pugachev&theme=solarized">
 </div>
+<div align="center">
+  <img src="https://www.codewars.com/users/nikita-pugachev/badges/large">
+</div>
